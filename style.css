@@ -1,0 +1,55 @@
+#gl_logo{
+    height: 50px;
+    width: 50px;
+}
+#ml_logo{
+    height: 50px;
+    width: 60px;
+}
+body{
+background-color: lavenderblush;
+color: rgba(0, 0, 0, 0.719);
+font-family: 'Cinzel', serif;
+scroll-behavior: smooth;
+}
+#gl_label{
+
+    border-radius: 10px;
+    background-color: #e9d3ee;
+    border: 5px;
+}
+#ml_label{
+    border-radius: 10px;
+    background-color: #e9d3ee;
+    border: 5px ;
+}
+hr{
+    border: 1px solid rgb(157, 157, 206);
+}
+
+#b_img{
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 36px rgb(148, 108, 190);
+
+}
+#vs_btn{
+   background-color: rgb(229, 197, 248);
+   border-radius: 5px;
+   font-weight: bold;
+   border: 5px;
+}
+#bottle{
+    border-radius: 50px;
+    background-color:lavender;
+    width: 50%;
+}
+
+#m_img{
+    height: 300px;
+    width: 400px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 36px rgb(148, 108, 190);
+
+}
